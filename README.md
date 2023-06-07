@@ -1,2 +1,2 @@
 # Data-Scraping
-## Python web scrapes of popular websites and searches.
+Python web scrapes of popular websites and searches.
